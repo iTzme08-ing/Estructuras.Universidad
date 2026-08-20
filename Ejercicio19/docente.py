@@ -1,5 +1,5 @@
-from persona import persona
-from titulo import titulo
+from Ejercicio19.persona import persona
+from Ejercicio19.titulo import titulo
 class docente(persona):
     def __init__(self, nombre, documento,asignatura):
         super().__init__(nombre, documento)

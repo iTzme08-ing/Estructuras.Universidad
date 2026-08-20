@@ -1,5 +1,5 @@
-from recurso import recurso
-from docente import docente
+from Ejercicio19.recurso import recurso
+from Ejercicio19.docente import docente
 
 r1 = recurso("Computadora")
 r2 = recurso("Proyector")
